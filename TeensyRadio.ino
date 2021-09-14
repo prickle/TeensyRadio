@@ -1,8 +1,15 @@
+//TeensyRadio
+// Digital Boombox v0.9
+// see config.h for notes
+
+// Nick Metcalfe 2019-2021 covid lockdown project
+// Teensy 4.0 600Mhz - Teensyduino 1.54
+// Using lvgl 8.0.2
+
 #include <lvgl.h>
 #include <SPI.h>
 #include <SD.h>
 #include <EEPROM.h>
-// Teensy 4.0 lvgl 8.0.2
 #include <XPT2046_Touchscreen.h>
 #include <HardwareSerial.h>
 #include <Adafruit_VS1053.h>
