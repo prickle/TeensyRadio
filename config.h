@@ -255,7 +255,7 @@ settingsObject settings = {
   0,          //playlistIndex (none)
   "http://radio1.internode.on.net:8000/296",         //Server
   0,          //Current Network
-  { { "lillypond", "68a561a0f642335a79576613af" }, //password
+  { { "<Empty>", "" }, //password
     { "<Empty>", "" },
     { "<Empty>", "" },
     { "<Empty>", "" }
